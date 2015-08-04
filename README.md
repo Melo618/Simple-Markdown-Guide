@@ -150,7 +150,7 @@
   带语法高亮的围栏式代码块（**GFM语法**，部分编辑器不支持）。
 
   ```php
-   ?php
+  <?php
       $my_array = array('a' => 'Dog', 'b' => 'Cat');
       sort($my_array);
       print_r($my_array);
@@ -264,4 +264,5 @@
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown)
 
 ## License
-＊ Copyright © 2014-2015, Melo Chan. [MIT License](http://opensource.org/licenses/MIT).
+
+  Copyright © 2014-2015, Melo Chan. [MIT License](http://opensource.org/licenses/MIT).
