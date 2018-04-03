@@ -211,7 +211,8 @@
 
   效果：
 
-  ![微信][QR]
+  ![微信][QR]  
+  
   [QR]: http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信"
 
 ## 分隔线
