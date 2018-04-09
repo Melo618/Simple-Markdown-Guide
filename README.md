@@ -177,12 +177,14 @@
 
   ```
   [Melo618][blog]
+
   [blog]: http://melo618.com "Melo618的博客"
   ```
 
   效果：
 
   [Melo618][blog]
+
   [blog]: http://melo618.com "Melo618的博客"
 
 ## 图片
@@ -206,12 +208,14 @@
 
   ```
   ![微信][QR]
+
   [QR]: http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信"
   ```
 
   效果：
 
   ![微信][QR]
+
   [QR]: http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信"
 
 ## 分隔线
@@ -265,4 +269,4 @@
 
 ## License
 
-  Copyright © 2014-2015, Melo Chan. [MIT License](http://opensource.org/licenses/MIT).
+  Copyright © 2014-2018, Melo Chan. [MIT License](http://opensource.org/licenses/MIT).
