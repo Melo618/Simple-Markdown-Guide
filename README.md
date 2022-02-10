@@ -165,27 +165,27 @@
   例如：
 
   ```
-  [Melo618](http://melo618.com "Melo618的博客")
+  [Google](https://www.google.com "Google")
   ```
 
   效果：
 
-  [Melo618](http://melo618.com "Melo618的博客")
+  [Google](https://www.google.com "Google")
 
   参考式链接，是在链接文字的括号后面加上另一个方括号，在第二个方括号里面要填入用以辨识链接的标记。
   例如：
 
   ```
-  [Melo618][blog]
+  [Google][GOOGL]
 
-  [blog]: http://melo618.com "Melo618的博客"
+  [GOOGL]: https://www.google.com "Google"
   ```
 
   效果：
 
-  [Melo618][blog]
+  [Google][GOOGL]
 
-  [blog]: http://melo618.com "Melo618的博客"
+  [GOOGL]: https://www.google.com "Google"
 
 ## 图片
 
@@ -196,27 +196,12 @@
   例如：
 
   ```
-  ![微信](http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信")
+  ![Wikipedia](https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png "Wikipedia")
   ```
 
   效果：
 
-  ![微信](http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信")
-
-  参考式链接，是在链接文字的括号后面加上另一个方括号，在第二个方括号里面要填入用以辨识链接的标记。
-  例如：
-
-  ```
-  ![微信][QR]
-
-  [QR]: http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信"
-  ```
-
-  效果：
-
-  ![微信][QR]
-
-  [QR]: http://7sbovo.com1.z0.glb.clouddn.com/simple-markdown-guide-weixin.png "微信"
+  ![Wikipedia](https://www.wikipedia.org/portal/wikipedia.org/assets/img/Wikipedia-logo-v2.png "Wikipedia")
 
 ## 分隔线
 
